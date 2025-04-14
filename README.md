@@ -1,6 +1,6 @@
 # MIST4610_GroupProject2
 
-Dylan Kiperman
+Dylan Kiperman https://github.com/dylankiperman?tab=repositories
 
 Sarah Washburn
 
