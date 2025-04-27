@@ -15,8 +15,12 @@ The dataset shows leading death causes in the United States for each year plus e
 
 # Questions we Generated - Why are they important?:
 1. Which states have the most deaths caused by cancer?
+   
 This question is important, as cancer is one of the leading causes of death in the United States. As it is currently incurable, it is important to identify which states have the highest causes of death by cancer so that preventative measures can be put in place. We first parsed through our dataset and examined all the different causes of death that were listed (heart disease, cancer, Alzhiemer’s, stroke, etc.). We consistently noticed that cancer was a leading cause of death over every year of data recorded. Bringing awareness to the states that are ravaged the most by cancer can be critical to helping those states with more patients. More cancer centers and rehabilitation centers can be built in these areas to make an impact and help our country beat cancer. By pinpointing certain states with most victims of cancer, we can make a difference and save lives.
+
+
 2. Which states have the highest growth rate in deaths caused by suicide?
+   
 We chose to find the growth rates from 1999-2017, and then predict them over the next 10 years. This would allow us to compare our forecasted suicide deaths for each state to real-time data and test if our predictions were viable. Suicide is an extremely prevalent issue in the United States and has unfortunately claimed many lives too early. By identifying the states with the highest suicide deaths over time, we can predict which areas we need to establish the most support in. For example, in the states with the largest number of deaths due to suicide, more mental health rehabilitation centers can be built to give people access to help. More employees can be on stand-by and be trained in these specific situations to be the most effective. Overall, this research will provide impactful insights that can save lives.
 
 
