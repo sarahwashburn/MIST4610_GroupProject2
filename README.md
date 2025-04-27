@@ -67,7 +67,7 @@ Question 2 (Analytical): Which states have the highest growth rate in deaths cau
 <img width="471" alt="Screenshot 2025-04-27 at 4 05 03 PM" src="https://github.com/user-attachments/assets/112a62f7-4ea1-47fb-a5a6-90c7bcd0df52" />
 
 
-Cancer Deaths
+**Cancer Deaths**
 
 **Analysis** 
 
@@ -86,7 +86,7 @@ The bar graph was highly appropriate for our descriptive question and  type of d
 
 
 
-Suicide Deaths 
+**Suicide Deaths** 
 
 **Analysis** 
 
