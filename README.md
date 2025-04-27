@@ -2,7 +2,7 @@
 
 Dylan Kiperman https://github.com/dylankiperman?tab=repositories
 
-Sarah Washburn
+Sarah Washburn https://github.com/sarahwashburn?tab=repositories
 
 Marshall Massey https://github.com/MMassey25?tab=repositories
 
