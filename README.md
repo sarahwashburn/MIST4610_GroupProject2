@@ -45,6 +45,35 @@ We chose to find the growth rates from 1999-2017, and then predict them over the
 <img width="471" alt="Screenshot 2025-04-27 at 4 05 03 PM" src="https://github.com/user-attachments/assets/112a62f7-4ea1-47fb-a5a6-90c7bcd0df52" />
 
 
+Cancer Deaths
+
+Analysis 
+
+One main error contributing to the heavily left skewed graph would the population difference between each state. The higher the population, predominantly more the deaths. To eliminate the bias, we took the 2010 deaths related to cancer for each state and based them per 100,000 people. So instead of Georgia having 15435 deaths in 2010, they have 159.33 deaths per 100,000 people. California had the highest cancer related deaths, but West Virginia had the most cancer related deaths per 100,000 people. Alaska had the lowest cancer related deaths, but Utah ended up with the lowest deaths per 100,000.
+
+The biggest difference between the US average and the West Virginia average comes around the idea of lung cancer. West Virginia has the second highest tobacco use rate in the united states. However on the opposite end, Utah has the lowest rate of tobacco use which could point to why Utah has the lowest amount of cancer deaths per 100,000 people.
+
+Implications of Analysis
+
+From 1999-2017 it was found that California, Florida, Texas, New York, and Pennsylvania had the 5 highest number of death related to Cancer. Inversely, Alaska, Wyoming, Washington D.C, Vermont, and North Dakota had the 5 lowest amounts of cancer related deaths in the United States. This graph is heavily skewed to the left side due to one significant factor.
+
+The bar graph was highly appropriate for our descriptive question and  type of data. We were working with discrete categories which are the different states, hence, a bar graph was ideal for clear comparisons. Initially, our raw dataset presented around 50 states, over the span of 19 years, with the highest number of deaths standing at approximately 1,050,000. Overall, a bar graph can handle large numerical differences effectively & present categorical data clearly.
+
+
+
+
+Suicide Deaths 
+
+Analysis 
+
+Population is not a contributor to bias because we are looking at growth rate of suicides across multiple years. When looking at the visualization and the growth rate by state, a way to test the reliability of the growth rate is looking at a forecast trend line. So we took the estimated number of deaths in 2022 per the forecast line, an compared it to the actual number of deaths in 2022 caused by suicide. 
+
+We found 38 over estimated, 12 underestimated, and 1 exactly the same. Nevada ended up having the exact same predicted value to actual value in 2022, showing the reliability  and accuracy of the Nevada trend line. In this scenario, overestimated is much better than underestimated in real life comparison.
+
+Implications of Analysis
+
+A line graph was highly appropriate for our analytical question & type of data. We were working with discrete categories which are the different states, hence, a line graph was ideal for showcasing trends in suicide deaths over time & identifying which states have the highest growth. Compared to the bar graph, the line graphs clearly revealed the upward & downward trends. The side-by-side table with percent change values highlighted the most extreme and least affected areas. Overall, the visualization made it easy for viewers to draw comparisons across all 50 states in one glance and look at the specific states.
+
 
 # Tableau Packaged Workbook
 
