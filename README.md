@@ -29,6 +29,22 @@ We chose to find the growth rates from 1999-2017, and then predict them over the
 
 # Analysis and Results
 
+1. 
+<img width="611" alt="Screenshot 2025-04-27 at 4 02 59 PM" src="https://github.com/user-attachments/assets/8a3ffa30-4f99-44db-93a1-d90f9e3b4218" />
+
+<img width="1039" alt="Screenshot 2025-04-27 at 4 03 19 PM" src="https://github.com/user-attachments/assets/4248d1ef-a32d-451e-965d-4461916483aa" />
+
+<img width="1045" alt="Screenshot 2025-04-27 at 4 03 47 PM" src="https://github.com/user-attachments/assets/91f32b2a-6c4d-4dc4-9073-df9c930b632e" />
+
+2. .
+
+<img width="791" alt="Screenshot 2025-04-27 at 4 04 41 PM" src="https://github.com/user-attachments/assets/a32bd614-aa34-4a33-8010-420d2433db96" />
+
+<img width="805" alt="Screenshot 2025-04-27 at 4 04 52 PM" src="https://github.com/user-attachments/assets/84a6ccea-f50d-42d9-a224-17c61fbd4d59" />
+
+<img width="471" alt="Screenshot 2025-04-27 at 4 05 03 PM" src="https://github.com/user-attachments/assets/112a62f7-4ea1-47fb-a5a6-90c7bcd0df52" />
+
+
 
 # Tableau Packaged Workbook
 
