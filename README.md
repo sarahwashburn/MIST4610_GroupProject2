@@ -6,7 +6,7 @@ Sarah Washburn
 
 Marshall Massey https://github.com/MMassey25?tab=repositories
 
-Aay Bel Pa Pa Minn 
+Aay Bel Pa Pa Minn https://github.com/AayBelPaPaMinn?tab=repositories
 
 Nimay Patel https://github.com/NimayPatel?tab=repositories
 
