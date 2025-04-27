@@ -26,6 +26,28 @@ We chose to find the growth rates from 1999-2017, and then predict them over the
 
 # Manipulations
 
+Our manipulations for each question are as follows: 
+
+Question 1 (Descriptive): Which states have the most deaths by cancer?  
+Cancer by state graph:  
+1. Excluded all causes of death except cancer
+2. Excluded "US" (total) out-of-state filters
+3. Sorted highest to lowest deaths
+4. Sum of deaths to get death count from all years
+
+Cancer Age Adjusted Death Rate by State graph:
+1. Excluded all causes of death except cancer
+2. Excluded "US" (total) out-of-state filters
+3. Sorted highest to lowest deaths
+4. Average of age adusted death rate
+
+Question 2 (Analytical): Which states have the highest growth rate in deaths caused by suicide?
+1. Exclude all causes of death except suicide
+2. Excluded "US" (total) out-of-state filters
+3. Sorted highest to lowest deaths
+4. Sum death count for all years
+5. Implement forecase from 2017-2026, ignoring data from 2017
+6. Describe forcast to show values as percentages
 
 # Analysis and Results
 
@@ -76,4 +98,4 @@ A line graph was highly appropriate for our analytical question & type of data. 
 
 
 # Tableau Packaged Workbook
-
+Attached as "Group Project 2 Graphs" in repository
