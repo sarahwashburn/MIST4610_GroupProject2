@@ -69,13 +69,15 @@ Question 2 (Analytical): Which states have the highest growth rate in deaths cau
 
 Cancer Deaths
 
-Analysis 
+**Analysis** 
 
-One main error contributing to the heavily left skewed graph would the population difference between each state. The higher the population, predominantly more the deaths. To eliminate the bias, we took the 2010 deaths related to cancer for each state and based them per 100,000 people. So instead of Georgia having 15435 deaths in 2010, they have 159.33 deaths per 100,000 people. California had the highest cancer related deaths, but West Virginia had the most cancer related deaths per 100,000 people. Alaska had the lowest cancer related deaths, but Utah ended up with the lowest deaths per 100,000.
+One main error contributing to the heavily left-skewed graph would the population difference between each state. The higher the population, predominantly more the deaths. To eliminate the bias, we took the 2010 deaths related to cancer for each state and based them per 100,000 people. So instead of Georgia having 15435 deaths in 2010, they have 159.33 deaths per 100,000 people. California had the highest cancer related deaths, but West Virginia had the most cancer related deaths per 100,000 people. Alaska had the lowest cancer-related deaths, but Utah ended up with the lowest deaths per 100,000.
+
+We also addressed the population difference by each state by utilizing the Age-adjusted death rate to analyze and compare the death rates between states. According to the "Cancer Age Adjusted Death Rate by State" graphs, Kentucky, Mississippi and West Virginia had the highest death rates, while Colorado, Hawaii, and Utah had the lowest. This is consistent with our analysis with adjusting for populations, as stated above. 
 
 The biggest difference between the US average and the West Virginia average comes around the idea of lung cancer. West Virginia has the second highest tobacco use rate in the united states. However on the opposite end, Utah has the lowest rate of tobacco use which could point to why Utah has the lowest amount of cancer deaths per 100,000 people.
 
-Implications of Analysis
+**Implications of Analysis**
 
 From 1999-2017 it was found that California, Florida, Texas, New York, and Pennsylvania had the 5 highest number of death related to Cancer. Inversely, Alaska, Wyoming, Washington D.C, Vermont, and North Dakota had the 5 lowest amounts of cancer related deaths in the United States. This graph is heavily skewed to the left side due to one significant factor.
 
@@ -86,15 +88,26 @@ The bar graph was highly appropriate for our descriptive question and  type of d
 
 Suicide Deaths 
 
-Analysis 
+**Analysis** 
 
 Population is not a contributor to bias because we are looking at growth rate of suicides across multiple years. When looking at the visualization and the growth rate by state, a way to test the reliability of the growth rate is looking at a forecast trend line. So we took the estimated number of deaths in 2022 per the forecast line, an compared it to the actual number of deaths in 2022 caused by suicide. 
 
 We found 38 over estimated, 12 underestimated, and 1 exactly the same. Nevada ended up having the exact same predicted value to actual value in 2022, showing the reliability  and accuracy of the Nevada trend line. In this scenario, overestimated is much better than underestimated in real life comparison.
 
-Implications of Analysis
+**Implications of Analysis**
 
 A line graph was highly appropriate for our analytical question & type of data. We were working with discrete categories which are the different states, hence, a line graph was ideal for showcasing trends in suicide deaths over time & identifying which states have the highest growth. Compared to the bar graph, the line graphs clearly revealed the upward & downward trends. The side-by-side table with percent change values highlighted the most extreme and least affected areas. Overall, the visualization made it easy for viewers to draw comparisons across all 50 states in one glance and look at the specific states.
+
+**Key Takeaways**  
+Here are our key takeaways for each question:
+
+Highest Cancer Rates:  
+By looking at our data, we can conclude that certain states like West Virginia have some of the highest cancer rates. By using this information, we can look into some of the key factors that cause this. By doing some quick research we found that West Virginia, among others with the highest cancer rate, has some of the highest smoking rates in the US. Which also means that lung cancer is one of the most common types of cancer in these states. We can use this to identify the states with high rates of lung cancer, thus allowing us to identify where to make strategic decisions to support the infrastructure to fight cancer (treatment centers, rehabilitation, anti-smoking initiatives, etc.).
+
+
+Highest Suicide Growth:  
+Our data helps us see which states have the highest suicide growth rate. Using this, we can identify what factors may have contributed to this high suicidal growth rate (life satisfaction, access to care, structural racism, substance abuse, etc.). We can then determine where we need to create more mental health awareness/accessibility initiatives and policies to fight systemic discrimination. For instance, some of the key contributing factors for suicide in Colorado, one of the states with the highest suicide growth rate, are high rates of mental health issues, lack of access to care, and systemic racial discrimination. All of which are issues that can now be addressed and supported with our data. 
+
 
 
 # Tableau Packaged Workbook
